@@ -1,1 +1,1 @@
-<h1 align = 'center'>Hi 👋, I am Divyanshu Srivastava </h1>
+<h1 align = 'left'>Hi 👋, I am Divyanshu Srivastava </h1>
