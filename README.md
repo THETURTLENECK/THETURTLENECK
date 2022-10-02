@@ -1,7 +1,2 @@
-<div align="center">
-	<br>
-	<a href="https://github.com/THETURTLENECK/PRIVATE/blob/main/README/HEAD.svg">
-		<img src="https://github.com/THETURTLENECK/PRIVATE/blob/main/README/HEAD.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
+<h1>Hello there, I'm <span color='#007AFF'>Divyanshu!</span>👋</h1>
+<h3 color='#6AB1FF'>- Student & Full Stack Developer</h3>
