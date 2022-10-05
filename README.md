@@ -23,10 +23,11 @@
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/JAVA SCRIPT.png' width='30px'/>&nbsp;
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/PHP.png' width='30px'/>&nbsp;
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/MYSQL.png' width='30px'/>&nbsp;
-    <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br/><br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://github.com/THETURTLENECK/D-BLOGGING-SITE'>
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/View%20Project.png' height='30px' width='auto'/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://project1.dprojects.epizy.com'>
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/View%20Project.png' height='30px' width='auto'/>
     </a>
