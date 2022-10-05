@@ -20,7 +20,7 @@
     <b>Languages Used - </b>&nbsp;
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/HTML.png' width='30px'/>&nbsp;
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/CSS.png' width='30px'/>&nbsp;
-    <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/JAVA SCRIPT.png' width='30px'/>&nbsp;
+    <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/JAVA%20SCRIPT.png' width='30px'/>&nbsp;
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/PHP.png' width='30px'/>&nbsp;
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/MYSQL.png' width='30px'/>&nbsp;
     <br/><br/>
@@ -29,7 +29,7 @@
     <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/View%20Project.png' height='30px' width='auto'/>
       </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://project1.dprojects.epizy.com'>
-    <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/View%20Project.png' height='30px' width='auto'/>
+    <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/02227d79a48ec29c115342e2bcad38297a467e76/resources/Visit%20Website.png' height='30px' width='auto'/>
     </a>
    </p>
 </div>
