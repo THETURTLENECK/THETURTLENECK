@@ -1,5 +1,5 @@
 <a href='https://dprojects.epizy.com'>
-  <img src='resources/Group 3.svg'  align='left' width='120px'/>
+  <img src='https://github.com/THETURTLENECK/THETURTLENECK/blob/fc73e457d9bcac9643a6e0ac7558c1ba9ca435ba/resources/Group%203.svg'  align='left' width='120px'/>
 </a>
 <p align='left'>
   <h1>Hello there, I'm Divyanshu!👋</h1>
